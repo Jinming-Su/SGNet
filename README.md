@@ -83,7 +83,7 @@ make
 ```
 python main.py test -exp_name workdir --view all
 ```
-Thanks for the  reference provided by the smart code [LaneATT](https://github.com/lucastabelini/LaneATT).
+Thanks for the  reference provided by the [smart code](https://github.com/lucastabelini/LaneATT).
 
 ## Citation
 ```
