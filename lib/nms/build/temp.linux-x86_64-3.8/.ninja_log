@@ -1,0 +1,10 @@
+# ninja log v5
+4	16930	1609207262382674568	/home/hadoop-mtcv/cephfs/data/chenchao60/0_lane_det_code/LaneATT-main_offset_vp/lib/nms/build/temp.linux-x86_64-3.8/src/nms.o	18ba7422e8a206d5
+6	30372	1609207275833321851	/home/hadoop-mtcv/cephfs/data/chenchao60/0_lane_det_code/LaneATT-main_offset_vp/lib/nms/build/temp.linux-x86_64-3.8/src/nms_kernel.o	e940181b3ce62b9d
+15	30588	1609383388853913539	/home/hadoop-mtcv/cephfs/data/chenchao60/0_lane_det_code/LaneATT-main_offset_vp/lib/nms/build/temp.linux-x86_64-3.8/src/nms_kernel.o	f03aff750d3a4c56
+5	20908	1609855620982841290	/home/hadoop-mtcv/cephfs/data/chenchao60/0_lane_det_code/LaneATT-main_offset_pred_vp/lib/nms/build/temp.linux-x86_64-3.8/src/nms.o	2ced085419b44201
+6	37105	1609855637191422731	/home/hadoop-mtcv/cephfs/data/chenchao60/0_lane_det_code/LaneATT-main_offset_pred_vp/lib/nms/build/temp.linux-x86_64-3.8/src/nms_kernel.o	e8d5cbfa84b59655
+6	21387	1621997615408276206	/home/hadoop-mtcv/cephfs/data/chenchao60/0_lane_det_code/LaneATT-main_offset_pred_vp/lib/nms/build/temp.linux-x86_64-3.8/src/nms.o	af6448deac592628
+7	38384	1621997632423857458	/home/hadoop-mtcv/cephfs/data/chenchao60/0_lane_det_code/LaneATT-main_offset_pred_vp/lib/nms/build/temp.linux-x86_64-3.8/src/nms_kernel.o	2ba8744583d31cd9
+6	21289	1622041031064398129	/home/hadoop-mtcv/cephfs/data/chenchao60/0_lane_det_code/LaneATT-main_offset_pred_vp/lib/nms/build/temp.linux-x86_64-3.8/src/nms.o	83923b929654625
+7	37597	1622041047395699760	/home/hadoop-mtcv/cephfs/data/chenchao60/0_lane_det_code/LaneATT-main_offset_pred_vp/lib/nms/build/temp.linux-x86_64-3.8/src/nms_kernel.o	557e0031f8dcbeff
